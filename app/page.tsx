@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <MainContainer>
       <main>
-        <Button size="lg">Click on me!</Button>
+        <Button size="lg">Enter site</Button>
       </main>
     </MainContainer>
   );
