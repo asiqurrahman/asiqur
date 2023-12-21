@@ -1,3 +1,5 @@
+[![@juanpflores's Holopin board](https://holopin.io/api/user/board?user=juanpflores)](https://holopin.io/@juanpflores)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
