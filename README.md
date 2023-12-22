@@ -1,5 +1,4 @@
-
-## #30NitesOfcode:
+## #30NitesOfCode:
   [Check out my progress!](https://codedex-git-feature-30-nites-of-code-codedex.vercel.app/@asiqurtest/30-nites-of-code)  
   ![@asiqurtest #30NitesOfCode](https://codedex-jf4fg5u54-codedex.vercel.app/api/petStatus?user=asiqurtest)
   
