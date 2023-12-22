@@ -1,7 +1,7 @@
 
 ## #30NitesOfcode: asiqurtest buddy
-  [Check out my progress](https://codedex-git-feature-30-nites-of-code-codedex.vercel.app/@asiqurtest/30-nites-of-code)
-  ![@asiqurtest Holopin board](https://codedex-jf4fg5u54-codedex.vercel.app/api/petStatus?user=asiqurtest)
+#[Check out my progress](https://codedex-git-feature-30-nites-of-code-codedex.vercel.app/@asiqurtest/30-nites-of-code)
+![@asiqurtest Holopin board](https://codedex-jf4fg5u54-codedex.vercel.app/api/petStatus?user=asiqurtest)
 ## Getting Started
 
 First, run the development server:
