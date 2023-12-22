@@ -1,6 +1,6 @@
 
-## 30NitesOfcode: orangechi6436 buddy
-  ![@orangechi6436 Holopin board](https://codedex-jf4fg5u54-codedex.vercel.app/api/petStatus?user=orangechi6436)
+## 30NitesOfcode: asiqurtest buddy
+  ![@asiqurtest Holopin board](https://codedex-jf4fg5u54-codedex.vercel.app/api/petStatus?user=asiqurtest)
   
 ## Getting Started
 
