@@ -1,6 +1,7 @@
 
-![@juanpflores's Holopin board](https://codedex-jf4fg5u54-codedex.vercel.app/api/petStatus?user=asiqurtest)
-
+## 30NitesOfcode: orangechi6436 buddy
+  ![@orangechi6436 Holopin board](https://codedex-jf4fg5u54-codedex.vercel.app/api/petStatus?user=orangechi6436)
+  
 ## Getting Started
 
 First, run the development server:
