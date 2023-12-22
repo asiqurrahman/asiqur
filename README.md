@@ -1,6 +1,10 @@
 
 ![@juanpflores's Holopin board](https://codedex-166kib329-codedex.vercel.app/api/petStatus)
 
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
+# User ID: <span id="user-id-placeholder">Loading...</span>
 
 <script>
   (async function() {
@@ -8,11 +12,11 @@
       const response = await fetch("https://random-data-api.com/api/users/random_user");
       const userData = await response.json();
       const userId = userData.id;
-      
-      // Update the content of the h1 tag with the user ID
-      const h1Element = document.querySelector("h1");
-      if (h1Element) {
-        h1Element.innerText = `User ID: ${userId}`;
+
+      // Update the content of the user ID placeholder
+      const userIdPlaceholder = document.getElementById("user-id-placeholder");
+      if (userIdPlaceholder) {
+        userIdPlaceholder.innerText = userId;
       }
     } catch (err) {
       console.error("Error fetching random user: ", err);
@@ -20,7 +24,6 @@
   })();
 </script>
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
