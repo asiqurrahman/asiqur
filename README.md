@@ -1,5 +1,24 @@
 
-[![@juanpflores's Holopin board](https://holopin.io/api/user/board?user=juanpflores)]
+![@juanpflores's Holopin board](https://holopin.io/api/user/board?user=juanpflores)
+
+
+<script>
+  (async function() {
+    try {
+      const response = await fetch("https://random-data-api.com/api/users/random_user");
+      const userData = await response.json();
+      const userId = userData.id;
+      
+      // Update the content of the h1 tag with the user ID
+      const h1Element = document.querySelector("h1");
+      if (h1Element) {
+        h1Element.innerText = `User ID: ${userId}`;
+      }
+    } catch (err) {
+      console.error("Error fetching random user: ", err);
+    }
+  })();
+</script>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
