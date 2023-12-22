@@ -1,5 +1,5 @@
 
-![@juanpflores's Holopin board](https://codedex-166kib329-codedex.vercel.app/api/petStatus)
+![@juanpflores's Holopin board](https://codedex-jf4fg5u54-codedex.vercel.app/api/petStatus?user=asiqurtest)
 
 ## Getting Started
 
