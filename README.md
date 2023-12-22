@@ -1,4 +1,3 @@
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Starting <a href="https://twitter.com/hashtag/30NitesOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#30NitesOfCode</a> on <a href="https://twitter.com/codedex_io?ref_src=twsrc%5Etfw">@codedex_io</a>! <a href="https://t.co/b7O4XDDf20">pic.twitter.com/b7O4XDDf20</a></p>&mdash; Asiqur Rahman (@Asiqur14) <a href="https://twitter.com/Asiqur14/status/1731082083139797324?ref_src=twsrc%5Etfw">December 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [![@juanpflores's Holopin board](https://holopin.io/api/user/board?user=juanpflores)]
 
