@@ -7,8 +7,8 @@ import { ChakraProviders } from "@/lib/chakraRegistry";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Asiqur",
-  description: "Some playground",
+  title: "Asiqur Rahman",
+  description: "0.5x Engineer",
 };
 
 export default function RootLayout({
