@@ -1,6 +1,6 @@
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@asiqur/30-nites-of-code)  
-  ![@asiqur #30NitesOfCode](https://www.codedex.io/api/petStatus?user=asiqur)
+  [Check out my progress!](https://www.codedex.io/@nate5524/30-nites-of-code)  
+  ![@asiqur #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nate5524)
   
 ## Getting Started
 
